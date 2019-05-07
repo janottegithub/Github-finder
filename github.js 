@@ -1,0 +1,6 @@
+github.js
+In the github.js file :
+You will need to do 2 Api calls:
+
+One for the user informations.
+One for the repositories of the user.
